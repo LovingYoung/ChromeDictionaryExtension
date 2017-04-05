@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Merriam-Webster Learner's Dictionary Extension",
+  "name": "Another Merriam-Webster Learner's Dictionary Extension",
   "description": "This extension helps you to look up words in learnersdictionary.com (Merriam-Webster Learner's Dictionary)",
   "icons": {"16": "icon.png", "48":"icon.png", "128": "icon.png"},
   "version": "1.0",
